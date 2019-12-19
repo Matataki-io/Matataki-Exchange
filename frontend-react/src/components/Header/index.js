@@ -58,13 +58,13 @@ export default function Header() {
       <HeaderElement>
         <Title>
           <Nod>
-            <Link id="link" href="https://uniswap.io">
+            <Link id="link" href="https://matataki.io/">
               <span role="img" aria-label="unicorn">
                 🤡{'  '}
               </span>
             </Link>
           </Nod>
-          <Link id="link" href="https://uniswap.io">
+          <Link id="link" href="https://matataki.io/">
             <h1 id="title">Matataki</h1>
           </Link>
         </Title>
