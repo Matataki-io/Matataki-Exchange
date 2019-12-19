@@ -439,6 +439,18 @@ const INITIAL_TOKENS_CONTEXT = {
     }
   },
   4: {
+    '0x75a1fb2f245eba785bd5492749ce77f828ca7f77': {
+      [NAME]: '小田的空气币',
+      [SYMBOL]: 'XTB',
+      [DECIMALS]: 4,
+      [EXCHANGE_ADDRESS]: '0xec9e3de4ef674961a5f39d9866363948e88d9f24'
+    },
+    '0xF552223730D2377b8e1C03cEda0f69beBE0f5b10': {
+      [NAME]: '林可圈圈',
+      [SYMBOL]: 'LINK',
+      [DECIMALS]: 4,
+      [EXCHANGE_ADDRESS]: '0x1ab4d165b6fdc9cd3d11445c67e9606b2ed20ff1'
+    }
     /* '0x5592EC0cfb4dbc12D3aB100b257153436a1f0FEa': {
       [NAME]: 'Dai',
       [SYMBOL]: 'DAI',
