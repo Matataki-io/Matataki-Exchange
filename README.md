@@ -23,6 +23,12 @@
 4. Use factory ABI (step 2) + factory address (step 3) and https://mycrypto.com/contracts/interact to open an interface to the uniswap factory
 5. call initializeFactory(templateAddress) and pass in the address of the deployed uniswap_exchange.vy contract (step 2)
 
+合约已部署在Rinkeby测试网上
+
+exchange：0x9bd2e195c1d8d4023103067f112894f85306cf43
+
+factory：0x09cc1a1c32b4adcff81fa3b44a142d6e023bc2eb
+
 ### 前端部署
 项目地址：https://github.com/Uniswap/uniswap-frontend
 1. 修改env.local
